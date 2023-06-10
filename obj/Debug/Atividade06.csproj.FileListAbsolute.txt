@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\Atividade06\Atividade06\bin\Debug\Atividade06.exe.config
+C:\Users\maria\source\repos\Atividade06\Atividade06\bin\Debug\Atividade06.exe
+C:\Users\maria\source\repos\Atividade06\Atividade06\bin\Debug\Atividade06.pdb
+C:\Users\maria\source\repos\Atividade06\Atividade06\obj\Debug\Atividade06.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Atividade06\Atividade06\obj\Debug\Atividade06.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\Atividade06\Atividade06\obj\Debug\Atividade06.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Atividade06\Atividade06\obj\Debug\Atividade06.exe
+C:\Users\maria\source\repos\Atividade06\Atividade06\obj\Debug\Atividade06.pdb
